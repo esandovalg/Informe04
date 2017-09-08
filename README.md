@@ -12,9 +12,15 @@ Ofrece varios programas bioinformaticos para reconstruir un Arbol Filogenitico a
 Menciona 5 tipos de análsis que se pueden realizar en el portal de acuerdo a la documentación  
 
 Los tipos de analisis que se pueden hacer son:
+
 1.- Alineamiento Multiple
+
 2.- Alineamiento Refinado o curado
+
 3.- Reconstruccion Filogenetica
+
 4.- Creacion Arbol Filogenetico
+
 5.- Analisis en Bases de Datos
+
 
