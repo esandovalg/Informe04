@@ -23,4 +23,4 @@ Los tipos de analisis que se pueden hacer son:
 
 5.- Analisis en Bases de Datos
 
-
+<img https://github.com/esandovalg/Informe04/blob/master/Primer.jpg?raw=true>
